@@ -1,7 +1,7 @@
 export default {
-  name: "siteSettingsTest",
+  name: "siteSettings",
   type: "document",
-  title: "Site SettingsTest",
+  title: "Site Settings",
   __experimental_actions: ["update", /* 'create', 'delete', */ "publish"],
   fields: [
     {
